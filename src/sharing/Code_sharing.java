@@ -21,6 +21,8 @@ public class Code_sharing {
 //				charArray=charArray+ascii;
 				//System.out.println(c);
 				System.out.print(str+c);
+				System.out.print("simple");
+				
 		
 			}
 			
